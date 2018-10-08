@@ -14,7 +14,11 @@ import java.util.Scanner;
 public class PBO210117064Latihan33ObjectOrientedUserLogin {
 
     /**
-     * @param args the command line arguments
+ * @param args the command line arguments
+ * NAMA     : Wahid Herlambang Suroso
+ * KELAS    : PBO2
+ * NIM      : 10117064
+ * Deskripsi Program : Program ini berisi program untuk login user.
      */
     public static void main(String[] args) {
         // TODO code application logic here

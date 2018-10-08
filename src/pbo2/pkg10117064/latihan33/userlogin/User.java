@@ -8,6 +8,10 @@ package pbo2.pkg10117064.latihan33.userlogin;
 /**
  *
  * @author WAHID HERLAMBANG
+ * NAMA     : Wahid Herlambang Suroso
+ * KELAS    : PBO2
+ * NIM      : 10117064
+ * Deskripsi Program : Program ini berisi program untuk login user.
  */
 public class User {
     
